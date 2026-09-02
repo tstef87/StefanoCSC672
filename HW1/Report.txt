@@ -1,0 +1,29 @@
+1.) Based on the instructional videos, what are the key steps for managing files between 
+Google Colab and GitHub?
+
+1 - Create GitHub Repository 
+2 - Clone GitHub Repo to your Local Device
+3 - On Local Device make directories for Homework (Or in the GitHub webclient as shown in the video)
+4 - Open Homework directory and create/copy-in Jupiter Notebook
+5 - Compleate Homework Assignment
+6 - Push changes to GitHub repository
+        git add *New Jupiter Notebooks* ; git commit -am "*Commit Message*"; git push
+
+2.) Did all Module 0 notebooks execute successfully in Colab on the first try, or did 
+you need to adjust any syntax or dependencies?
+
+All Module 0 notebooks execute successfully in Colab on the first try. 
+
+3.) Explain how you created your repository and organized your files (whether using VS 
+Code or the GitHub web interface).
+
+For me I create the GitHub repository thorugh the GitHub web client. After creating an 
+empty repository I cloned it down to my Visual Studio Code via terminal. I then copied 
+the notebooks into the HW1 directory and pushed them up to my GitHub Repo.
+
+4.) Why is establishing a strong command of basic Python data structures and syntax 
+critical before moving on to core machine learning algorithms?
+
+AI and machine learning rely heavily on data structures. This is due to the fact that 
+a principal part machine learning is examining data sets. Data structures, like arrays
+directories etc... , allow us to represent and minipliate these data set in our code.
